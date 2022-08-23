@@ -1,10 +1,8 @@
 package ru.netology.delivery.test;
 
-import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.BeforeAll;
 
 //import org.junit.jupiter.api.Disabled;
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.Keys;
 import ru.netology.delivery.data.DataGenerator;
